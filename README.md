@@ -9,3 +9,12 @@ A awesome list of awesome GitHub Profile
 <a href="https://twitter.com/rao123dk" ><img src="https://img.shields.io/twitter/follow/rao123dk.svg?style=social" /> </a>
 <br>
 
+    
+<i>A curated list of awesome Github Profile READMEs</i>
+
+<a href="https://github.com/javascriptkingdom/awesome-github-profiles/stargazers"><img src="https://img.shields.io/github/stars/javascriptkingdom/awesome-github-profiles" alt="Stars Badge"/></a>
+<a href="https://github.com/javascriptkingdom/awesome-github-profiles/members"><img src="https://img.shields.io/github/forks/javascriptkingdom/awesome-github-profiles" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/javascriptkingdom/awesome-github-profiles/pulls"><img src="https://img.shields.io/github/issues-pr/javascriptkingdom/awesome-github-profiles" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/javascriptkingdom/awesome-github-profiles/issues"><img src="https://img.shields.io/github/issues/javascriptkingdom/awesome-github-profiles" alt="Issues Badge"/></a>
+<a href="https://github.com/javascriptkingdom/awesome-github-profiles/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/javascriptkingdom/awesome-github-profiles?color=2b9348"></a>
+<a href="https://github.com/javascriptkingdom/awesome-github-profiles/blob/master/LICENSE"><img src="https://img.shields.io/github/license/javascriptkingdom/awesome-github-profiles?color=2b9348" alt="License Badge"/></a>
